@@ -1,0 +1,155 @@
+0:00:00:000 - 1. Player Make (A)
+0:02:08:770 - 2. Player Make (Data Transfer) (A)
+0:04:18:150 - 3. Tutorial: Phase 1 (Mix)
+0:06:19:065 - 4. Tutorial: Phase 2 (C)
+0:07:22:618 - 5. Tutorial: Phase 3
+0:08:47:354 - 6. Splatsville Tutorial
+0:09:56:418 - 7. Splatsville: Alterna Manhole
+0:10:24:103 - 8. Splatsville: Ammo Knights
+0:11:49:670 - 9. Splatsville: Backstreets
+0:16:13:571 - 10. Splatsville: Board Games
+0:17:59:648 - 11. Splatsville: Cheapsweets
+0:19:43:277 - 12. Splatsville: Crush Station
+0:21:08:602 - 13. Splatsville: Drinks
+0:22:34:007 - 14. Splatsville: Electronics
+0:25:54:438 - 15. Splatsville: Hotlantis
+0:27:19:605 - 16. Splatsville: Lobby
+0:28:35:765 - 17. Splatsville: Manhole
+0:29:04:152 - 18. Splatsville: Man:o':Wardrobe
+0:30:29:458 - 19. Splatsville: Naut Couture
+0:31:54:794 - 20. Splatsville News: Outro
+0:31:58:842 - 21. Splatsville: News Studio
+0:33:12:882 - 22. Splatsville News
+0:34:39:900 - 23. Splatsville Plaza: Splattack (Guitar Practice)
+0:35:08:775 - 24. Splatsville: Post Office
+0:36:34:151 - 25. Splatsville: Restaurant
+0:37:57:373 - 26. Splatsville: Seagrapes
+0:39:15:295 - 27. Splatsville: Steamed Buns
+0:40:38:182 - 28. Splatsville: Teas
+0:41:58:250 - 29. Splatsville: The Shoal
+0:44:30:592 - 30. Splatsville: Toys
+0:46:18:063 - 31. Ammo Knights
+0:47:46:939 - 32. Anarchy Rainbow (Train Radio)
+0:51:01:576 - 33. Lobby Reception
+0:53:33:894 - 34. Lobby TestingRoom
+0:56:06:285 - 35. Splatsville Demo First
+0:56:37:181 - 36. Crush Station
+0:58:06:005 - 37. Hotlantis
+0:59:34:803 - 38. Man o' Wardrobe
+1:01:03:636 - 39. Naut Couture
+1:02:32:435 - 40. Opening
+1:03:10:197 - 41. Clickbait
+1:06:47:724 - 42. Splattack!
+1:10:19:849 - 43. BGM 03
+1:12:52:963 - 44. Paintscrapper
+1:15:38:062 - 45. BGM 05
+1:18:30:737 - 46. Sea Me Now
+1:21:16:429 - 47. BGM 07
+1:23:46:756 - 48. Candy Coated Rocks
+1:26:45:227 - 49. Tentacle to the Metal
+1:29:36:779 - 50. Now or Never!
+1:30:44:110 - 51. Battle Results: Victory (Mix)
+1:31:30:290 - 52. Battle Results: Lose (Mix)
+1:32:12:976 - 53. Salmon Run Opening (Mix)
+1:32:56:634 - 54. Salmon Run Opening: Hazard Level MAX (Mix)
+1:33:52:414 - 55. Next Wave: King Salmonid
+1:34:34:564 - 56. Salmon Run Next Wave: King Salmonid
+1:38:04:920 - 57. Salmon Run Next Wave: Results
+1:39:46:262 - 58. Tableturf Battle: Battle
+1:42:50:568 - 59. Tableturf Battle: Edit
+1:45:10:570 - 60. Tableturf Battle: Item Select
+1:47:08:698 - 61. Tableturf Battle: Battle (Last 3 Turns)
+1:49:20:809 - 62. Tableturf Battle: Level Select
+1:50:21:189 - 63. Tableturf Battle: Results 1
+1:51:38:950 - 64. Tableturf Battle: Results 2
+1:53:19:509 - 65. Splatfest: Match Opening
+1:53:57:117 - 66. Splatfest: Match Opening (Tri:Color Battle)
+1:54:34:592 - 67. Lobby (Splatfest: First Half)
+1:57:08:326 - 68. Splatfest News
+1:58:28:824 - 69. Splatfest First Half: Shiver
+2:00:36:999 - 70. Splatfest First Half: Frye
+2:02:45:273 - 71. Splatfest First Half: Big Man
+2:04:53:496 - 72. Lobby (Splatfest: Second Half)
+2:07:27:108 - 73. Anarchy Rainbow (Splatfest: Second Half)
+2:10:45:416 - 74. Fins in the Air (by Deep Cut)
+2:13:46:390 - 75. Till Depth do us Part (by Deep Cut)
+2:16:41:185 - 76. Now or Never! (Splatfest)
+2:17:08:457 - 77. Battle Results: Victory (Splatfest)
+2:18:12:037 - 78. Battle Results: Lose (Splatfest)
+2:19:03:646 - 79. Lobby (Weekdays)
+2:21:31:760 - 80. Lobby (Weekends)
+2:23:50:673 - 81. Lobby Sub 01
+2:26:21:670 - 82. Lobby Sub 02
+2:29:06:066 - 83. Lobby Sub 03
+2:31:44:861 - 84. Lobby Sub 04
+2:34:49:537 - 85. Lobby Sub 05
+2:37:13:395 - 86. Lobby Sub 06
+2:40:20:709 - 87. Lobby Sub 07
+2:42:54:728 - 88. Lobby Sub 08
+2:44:38:658 - 89. Lobby Sub 09
+2:48:16:690 - 90. Mission Boss: Mr. Grizz 1 (Phase 1)
+2:51:08:098 - 91. Mission Boss: Mr. Grizz 1 (Phase 2)
+2:53:51:155 - 92. Mission Boss: Mr. Grizz 1 (Phase 3)
+2:56:03:696 - 93. Calimari Inkanation 3MIX
+3:03:12:611 - 94. Calimari Inkantation 3MIX (Solo:No Intro)
+3:09:07:018 - 95. Mission Boss: Deep Cut (Phase 1)
+3:11:22:147 - 96. Mission Boss: Deep Cut (Phase 2)
+3:13:37:282 - 97. Mission Boss: Deep Cut (Phase 3)
+3:15:52:424 - 98. Mission Boss: DJ Octavio (Mix)
+3:18:20:810 - 99. Return of the Mammalians: Ending
+3:18:50:477  - 100. Demo D5 01
+3:19:08:684 - 101. Return of the Mammalians: Mr. Grizz!
+3:19:32:914 - 102. Return of the Mammalians: Rocket Start
+3:20:26:063 - 103. Return To Earth
+3:20:44:259 - 104. Deep Cut: Cooperation
+3:21:33:116 - 105. Deep Cut: Intro
+3:21:39:983 - 106. Deep Cut: Cooperation
+3:22:28:833 - 107. Deep Cut: Encounter
+3:24:11:493 - 108. Demo Surimi D2 02
+3:24:21:143 - 109. Cap'n Cuttlefish
+3:26:17:276 - 110. Squid Sisters: Encounter
+3:29:00:794 - 111. DemoScene D5 02
+3:29:31:066 - 112. DemoScene D6 01a
+3:29:44:316 - 113. Cap'n Cuttlefish: Squid Form
+3:30:29:728 - 114. Wave Goodbye (Staff Roll)
+3:35:58:676 - 115. Alterna 01 (Splatlands) (A)
+3:38:43:488 - 116. Alterna 02 (Splatlands) (A)
+3:41:57:465 - 117. Alterna 03 (Splatlands) (A)
+3:45:49:610 - 118. Alterna 04 (Splatlands) (A) [OctolingRendevouz]
+3:47:35:371 - 119. Mission 01 (Alterna) (A)
+3:49:55:440 - 120. Mission 02 (Alterna) (A)
+3:52:01:306 - 121. Mission 03 (Alterna) (A)
+3:55:17:349 - 122. Mission 04 (Alterna) (A)
+3:58:09:276 - 123. Mission 05 (Alterna) (A)
+4:00:26:061 - 124. Mission 06 (Alterna) (A)
+4:04:19:891 - 125. Mission 07 (Alterna) (A)
+4:07:44:328 - 126. Entrance Terminal (Normal)
+4:10:54:878  - 127. Entrance Terminal (Extra)
+4:14:18:801 - 128. Entrance Terminal (Challenge)
+4:17:01:983 - 129. Entrance Terminal (Boss)
+4:17:35:808 - 130. Mission 01 (Crater) (A)
+4:20:28:464 - 131. Mission 01 (Rocket) (B)
+4:22:46:711 - 132. Mission 02 (Rocket) (B)
+4:26:07:594 - 133. Mission 04 (Rocket) (B)
+4:29:48:355 - 134. Rocket Mission Loading 02
+4:31:06:627 - 135. Rocket Mission Loading 04
+4:32:25:749 - 136. Overworld: Alterna 1
+4:35:01:162 - 137. Overworld: Alterna 2
+4:37:15:748 - 138. Overworld: Alterna 3
+4:40:10:845 - 139. Overworld: Alterna 4
+4:42:53:998 - 140. Overworld: Alterna 5
+4:45:23:804 - 141. Overworld: Alterna 6
+4:48:03:373 - 142. Overworld: Crater
+4:51:07:641 - 143. Overworld: Rocket 1 (A)
+4:56:26:291 - 144. Overworld: Rocket 2
+5:01:44:890 - 145. Overworld: Rocket 3
+5:07:03:465 - 146. Overworld: Rocket 4
+5:12:26:181 - 147. Overworld: Rocket 5
+5:17:50:162 - 148. Alterna: Item Get
+5:17:53:072 - 149. Alterna: Gold Disk Get
+5:17:55:223 - 150. Alterna: Clear
+5:17:57:313 - 151. Alterna: Mission Clear!
+5:18:07:979 - 152. Alterna: Boss Clear!
+5:18:16:269 - 153. The Crater: Mission Clear!
+5:18:22:079 - 154. Fishing Frenzy
+6:58:40 - 192. Without A Dop Doubt (Night)
